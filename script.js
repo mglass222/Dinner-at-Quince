@@ -4,7 +4,7 @@
 
 // *** CONFIGURATION ***
 // Replace this URL with your deployed Google Apps Script web app URL
-const API_URL = 'YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL';
+const API_URL = 'https://script.google.com/macros/s/AKfycbx8L3kF2hKAZ3-7UOVs46gRbCS1ToY6X1AEidt6P39f0FXmylv-GDi0EKTJU2BagfT2/exec';
 
 // DOM Elements
 const form = document.getElementById('signup-form');
